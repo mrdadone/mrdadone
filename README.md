@@ -10,15 +10,15 @@ Fast game server hosting for Minecraft, Rust, and more.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
-Total Time: 20 hrs 33 mins
+Total Time: 16 hrs 17 mins
 
-TypeScript   6 hrs 38 mins         ███████▓░░░░░░░░░░░░░░░░░   31.30 %
-Markdown     5 hrs 41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Rust         3 hrs 39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-Python       1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-HTML         1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+TypeScript   5 hrs 13 mins         ████████░░░░░░░░░░░░░░░░░   31.84 %
+Markdown     4 hrs 36 mins         ███████░░░░░░░░░░░░░░░░░░   28.04 %
+Rust         3 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
+Python       1 hr 49 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+JavaScript   33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
